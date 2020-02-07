@@ -1,2 +1,2 @@
 # jenkinsProject
-Learning Jenkins
+Learning Jenkins and adding zero touch triggering
